@@ -1,0 +1,6 @@
+FROM svizor/zoomcamp-model:3.11.5-slim
+WORKDIR /app
+COPY Pipfile Pipfile.lock ./
+RUN pip install pipenv && pipenv install --deploy --ignore-pipfile
+COPY flask_app.py .  # промени 'flask_app.py' на името на твојот Flask скрипт
+CMD ["pipenv", "run", "gunicorn", "-b", "0.0.0.0:9696", "flask_app:app"]
