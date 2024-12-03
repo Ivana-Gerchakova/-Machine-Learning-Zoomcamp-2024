@@ -6,7 +6,7 @@ Below is an overview of the topics covered and the associated projects.
 
 <img src="images/zoomcamp.jpg" />
 
-## Course Overview
+## Course Overview:
 
 - **Introduction to Machine Learning**: Basics of CRISP-DM, NumPy, and Pandas.
 - **Regression**: Techniques for predicting continuous outcomes with linear regression.
