@@ -4,6 +4,8 @@ This repository contains projects developed as part of the **Machine Learning Zo
   This 4-month course offers a structured and practical approach to mastering machine learning concepts and their real-world applications. 
 Below is an overview of the topics covered and the associated projects.
 
+<img src="images/zoomcamp.jpg" />
+
 ## Course Overview
 
 - **Introduction to Machine Learning**: Basics of CRISP-DM, NumPy, and Pandas.
