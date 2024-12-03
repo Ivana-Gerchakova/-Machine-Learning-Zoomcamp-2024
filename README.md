@@ -17,7 +17,7 @@ Below is an overview of the topics covered and the associated projects.
 - **Deep Learning**: Fundamentals of TensorFlow, CNNs, transfer learning, and regularization.
 - **Serverless Deployment**: Deploying ML models using AWS Lambda and TensorFlow Lite.
 - **Kubernetes**: Scalable deployment of ML models with TensorFlow Serving.
-- **Midterm project and 2 Capstone Projects**: End-to-end implementations of machine learning pipelines.
+- **Midterm and 2 Capstone Projects**: End-to-end implementations of machine learning pipelines.
 
 Each project folder contains code, detailed explanations, and results.
 Feel free to explore the repository and learn more about the practical applications of machine learning!
