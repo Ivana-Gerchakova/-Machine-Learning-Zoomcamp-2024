@@ -20,4 +20,4 @@ Below is an overview of the topics covered and the associated projects.
 - **Midterm and 2 Capstone Projects**: End-to-end implementations of machine learning pipelines.
 
 Each project folder contains code, detailed explanations, and results.
-Feel free to explore the repository and learn more about the practical applications of machine learning!
+Feel free to explore the repository and learn more about the practical applications of machine-learning!
