@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: zoomcamp-model
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: zoomcamp-model
+  template:
+    metadata:
+      labels:
+        app: zoomcamp-model
+    spec:
+      containers:
+      - name: zoomcamp-model
+        image: zoomcamp-model:3.11.5-hw10
+        ports:
+        - containerPort: 9696
